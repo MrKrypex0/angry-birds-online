@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Character
+  - Point
+  - Catapult
+  - Envoirment
+  - HitAudio
+  - CatapultFront
+  - CameraFocus
+  - bigcloud
+  - smallcloud
+  - AMO
+  - SelectionCanvas
+  - Character1
+  - Image
+  - Button
+  - othercanvas
+  - fader
+  - Image1
+  - Image2
+  - Image3
+  - Image4
+  - Image5
+  - BlackImage
+  - Pillar
+  - postfx
+  - chargeeffect
+  - endscreen
+  - explosion
+  - box
+  - focus
+  - CatapultBack
+  - destroysound
+  - planet
+  - buy
+  - buyscript
+  - inventory
+  - slider
+  - buildcanvas
+  - gamemanager
+  - focus1
+  - focus2
+  - ammo1
+  - ammo2
+  - roundmanager
+  - Catapult1
+  - Catapult2
+  - CatapultFront1
+  - CatapultFront2
+  - CatapultBack1
+  - CatapultBack2
+  - buildUI
+  - lobbyUI
+  - Player2
+  - Player1
+  - item
+  - networkmanager
+  - barrier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 0
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGroundLayer
+    uniqueID: 1840613329
+    locked: 0

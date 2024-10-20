@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4354833905680055783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4354833905680055784}
+  - component: {fileID: 4789864342596065006}
+  m_Layer: 0
+  m_Name: AMO
+  m_TagString: AMO
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4354833905680055784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4354833905680055783}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4789864342596065006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4354833905680055783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eee17c88262cea040b78ee828cbc714b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  astroPlayerIndex: 0
+  treePlayerIndex: 0
+  lavaPlayerIndex: 0
+  spikePlayerIndex: 0
+  darkPlayerIndex: 0
+  speedPlayerIndex: 0
+  bombPlayerIndex: 0
+  index: 0
+  characters: []
+  objects: []
+  astroPlayerObject: {fileID: 7325643335791856200, guid: d43b29e49fdaccd4b8ff386acbfd58df,
+    type: 3}
+  treePlayerObject: {fileID: 7325643335791856200, guid: 9590ca8d264523f46828c568e98cbfa0,
+    type: 3}
+  lavaPlayerObject: {fileID: 7325643335791856200, guid: 581825e5c7ab6e34b8fccd884d77af85,
+    type: 3}
+  spikePlayerObject: {fileID: 7325643335791856200, guid: 3e90899e997e3e647a9e35594511addb,
+    type: 3}
+  darkPlayerObject: {fileID: 7325643335791856200, guid: b99184eccd39b62428e237242606e687,
+    type: 3}
+  speedPlayerObject: {fileID: 7325643335791856200, guid: ab958ae5ea7457d46b7ff47bb747d274,
+    type: 3}
+  bombPlayerObject: {fileID: 7325643335791856200, guid: c15bde0eaa52c7848a5c6240495b806e,
+    type: 3}
+  currentObject: {fileID: 0}
+  canvas: {fileID: 0}
